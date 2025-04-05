@@ -1,0 +1,171 @@
+1. Game Overview
+Game Title: Frosted Ember
+Genre: Survival Action RPG (ARPG) with Elemental Combat & PvP
+Platform: PC (Windows), Console (Future Expansion)
+Game Mode: Multiplayer (Online Open-World)
+Art Style: Stylized 3D fantasy world with elemental themes
+Core Theme: Survival in a dynamic world where elemental forces clash, evolving powers, PvP battles, and player-driven progression through quests and ranking.
+2. Core Gameplay Features
+2.1 Player Movement
+The player can traverse the world using five movement types:
+
+Walking – Standard movement at a normal pace.
+
+Running – Increased speed at the cost of stamina.
+
+Jumping – Basic jump (double jump for certain abilities).
+
+Crouching – Used for stealth and avoiding attacks.
+
+Dashing – Quick bursts of movement, consumes stamina (or varies based on elemental power).
+
+2.2 Combat & Elemental Powers
+Combat is dynamic, with each element providing unique abilities.
+
+Elemental Types & Evolutions:
+Fire → Evolves into Blaze (more powerful and explosive abilities).
+
+Water → Evolves into Ice (defensive and control abilities).
+
+More elements may be added in future updates.
+
+Ability System (Key Bindings):
+Each elemental power has five abilities, mapped to Z, X, C, V, and F:
+
+Z: Slash Attack (Basic attack with elemental effect).
+
+X: AOE (Area of Effect attack or surrounding damage).
+
+C: Armor/Ultimate (Boosts defense or unleashes a powerful attack).
+
+V: Transformation (Enhances elemental form for a time).
+
+F: Dash/Slide/Glide (Varies based on element).
+
+Melee Combat:
+Every elemental type has unique melee attacks, including different animations for each attack in a combo (first, second, and third strikes).
+
+PvP System:
+Players can engage in 1v1 duels, team fights, and open-world PvP.
+
+Some zones are safe areas, while others allow full PvP combat.
+
+3. Survival Systems
+3.1 Health System
+Players have a health bar that decreases from enemy attacks, starvation, exhaustion, or environmental hazards.
+
+Health regenerates slowly or can be restored using items.
+
+3.2 Hunger System
+Players must eat food to maintain stamina and prevent health loss.
+
+Different food items restore hunger at different rates.
+
+Starving results in stamina drain, movement slowdowns, and eventual health loss.
+
+3.3 Stamina System
+Stamina is used for running, dashing, and certain abilities.
+
+Stamina regenerates over time but faster when resting or consuming stamina-boosting items.
+
+3.4 Stats System
+Players have upgradable stats that determine their effectiveness in combat and survival. Stats include:
+
+Strength – Increases melee damage.
+
+Endurance – Affects stamina and resistance to damage.
+
+Agility – Affects movement speed and dodge ability.
+
+Elemental Mastery – Increases power and efficiency of elemental abilities.
+
+4. Progression & Ranking Systems
+4.1 Quest System & Leveling
+Players complete quests to gain experience (XP) and level up.
+
+Quest types:
+
+Survival Quests – Hunting, gathering, crafting.
+
+Combat Quests – Defeat enemies, engage in PvP battles.
+
+Exploration Quests – Discover hidden areas, find rare artifacts.
+
+Higher-level players can take on stronger quests for greater rewards.
+
+4.2 Ranking System
+Players must give specific items or resources to a Ranker NPC to rank up.
+
+Ranking gets harder at higher levels, requiring rarer resources.
+
+Higher ranks unlock:
+
+Stronger abilities
+
+Better quests
+
+Increased currency rewards
+
+5. Economy & Currency System
+5.1 In-Game Currency:
+Two types of currency exist:
+
+Frost Coins – Earned by completing quests or found in the world.
+
+Ember Bucks – Premium currency purchased with real money.
+
+5.2 Economy Balance
+Frost Coins are used for buying weapons, gear, food, and consumables.
+
+Ember Bucks allow players to purchase premium items, cosmetics, and VIP perks.
+
+6. Social & Clan System
+6.1 Friends & Multiplayer Features
+Players can add friends and team up in squads.
+
+Group activities like team quests, PvP tournaments, and survival challenges.
+
+6.2 Clan System
+Players can create or join clans.
+
+Clans have ranks and upgradeable perks.
+
+Members can buy special items or VIP access depending on clan level.
+
+7. Character Customization
+Players can customize their avatars with:
+
+Clothes: Pants, shirts, jackets.
+
+Accessories: Hats, glasses, masks.
+
+Weapon Skins: Visual enhancements for weapons.
+
+Elemental Effects: Unique auras or animations based on progression.
+
+8. Development Scope & Milestones
+Phase 1: Core Gameplay Mechanics (Movement & Combat) – Month 1-2
+Implement character movement (walking, running, jumping, crouching, dashing).
+
+Develop basic melee combat and elemental abilities.
+
+Set up a basic survival system (health, stamina, hunger).
+
+Phase 2: PvP & Multiplayer Integration – Month 3-4
+Implement multiplayer networking (Photon or Unity Netcode).
+
+Develop PvP combat with dueling and open-world fights.
+
+Implement the ranking system and stat upgrades.
+
+Phase 3: Quest System & Economy – Month 5-6
+Add quests, rewards, and XP progression.
+
+Introduce Frost Coins and Ember Bucks economy.
+
+Create an in-game shop for items, weapons, and cosmetics.
+
+Phase 4: Social & Clan Features – Month 7-8
+Implement friend lists, clan creation, and group features.
+
+Add clan-exclusive VIP perks and custom shop items.
